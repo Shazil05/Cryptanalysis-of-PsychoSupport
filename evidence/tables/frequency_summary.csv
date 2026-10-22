@@ -1,0 +1,21 @@
+id,direction,username,mood,raw_len,clean_len,removed_non_letters,ic,top_5_cipher_letters,plot_file
+C1,Client->Server,Alex,1,186,184,2,0.1612615823235923,"U: 34.8%, X: 11.4%, I: 9.2%, R: 8.7%, C: 7.6%",evidence/plots/freq_C1.png
+S1,Server->Client,Alex,1,876,728,148,0.06728690841483138,"O: 13.6%, H: 9.9%, A: 8.2%, C: 8.2%, P: 7.6%",evidence/plots/freq_S1.png
+C2,Client->Server,Brenda,2,172,170,2,0.1336581970066133,"I: 27.6%, N: 17.1%, O: 10.6%, E: 7.6%, D: 6.5%",evidence/plots/freq_C2.png
+S2,Server->Client,Brenda,2,147,124,23,0.05874639391555206,"E: 11.3%, Y: 10.5%, W: 8.9%, S: 8.1%, O: 6.5%",evidence/plots/freq_S2.png
+C3,Client->Server,Charlie,3,184,182,2,0.14753202598506465,"W: 29.7%, D: 17.6%, U: 11.0%, G: 7.1%, P: 6.0%",evidence/plots/freq_C3.png
+S3,Server->Client,Charlie,3,951,791,160,0.06414568964137689,"I: 11.9%, K: 9.0%, J: 8.7%, G: 8.2%, T: 6.8%",evidence/plots/freq_S3.png
+C4,Client->Server,Diana,4,182,180,2,0.1531967721911856,"K: 31.1%, T: 16.7%, A: 10.6%, I: 8.3%, B: 7.2%",evidence/plots/freq_C4.png
+S4,Server->Client,Diana,4,946,786,160,0.061610022527997924,"S: 11.3%, I: 8.1%, C: 8.0%, V: 7.5%, E: 7.4%",evidence/plots/freq_S4.png
+C5,Client->Server,Ethan,5,182,180,2,0.14705152079453757,"Y: 31.7%, J: 13.3%, G: 11.1%, K: 7.2%, I: 6.1%",evidence/plots/freq_C5.png
+S5,Server->Client,Ethan,5,913,754,159,0.06764101859582008,"C: 12.6%, K: 10.1%, L: 9.4%, X: 7.7%, U: 7.4%",evidence/plots/freq_S5.png
+C6,Client->Server,Fiona,6,180,178,2,0.13464102075795087,"Y: 28.1%, N: 16.9%, Q: 9.6%, M: 9.0%, U: 5.6%",evidence/plots/freq_C6.png
+S6,Server->Client,Fiona,6,941,776,165,0.06842367808446957,"U: 12.0%, C: 10.7%, Z: 8.8%, L: 8.1%, W: 8.1%",evidence/plots/freq_S6.png
+C7,Client->Server,George,7,184,182,2,0.1421893024102969,"A: 28.0%, P: 18.1%, S: 10.4%, L: 8.2%, O: 6.6%",evidence/plots/freq_C7.png
+S7,Server->Client,George,7,919,759,160,0.06900831186709355,"W: 14.2%, O: 8.8%, N: 8.4%, E: 8.2%, B: 7.9%",evidence/plots/freq_S7.png
+C8,Client->Server,Hannah,8,188,186,2,0.14914269107817496,"O: 32.3%, F: 13.4%, Y: 10.2%, Q: 7.5%, G: 5.9%",evidence/plots/freq_C8.png
+S8,Server->Client,Hannah,8,992,825,167,0.062459546925566344,"G: 9.6%, B: 9.2%, U: 9.2%, Q: 8.8%, W: 8.2%",evidence/plots/freq_S8.png
+C9,Client->Server,Ian,9,184,182,2,0.15342116447088822,"C: 31.3%, V: 18.1%, E: 9.3%, J: 7.7%, S: 6.6%",evidence/plots/freq_C9.png
+S9,Server->Client,Ian,9,891,728,163,0.06888159983070574,"Q: 13.9%, P: 8.9%, S: 8.8%, O: 8.4%, F: 7.7%",evidence/plots/freq_S9.png
+C10,Client->Server,Julia,10,182,180,2,0.15102420856610801,"Q: 33.3%, K: 11.1%, L: 10.0%, U: 7.8%, V: 6.7%",evidence/plots/freq_C10.png
+S10,Server->Client,Julia,10,944,785,159,0.06709346158845704,"A: 14.0%, U: 8.4%, H: 7.9%, I: 7.9%, D: 7.6%",evidence/plots/freq_S10.png

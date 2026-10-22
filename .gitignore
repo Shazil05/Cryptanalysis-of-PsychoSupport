@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# PyInstaller extraction artifacts
+server_extracted/
+client_extracted/
+
+# Binary executables (original lab)
+server
+client
+
+# PyInstaller tool
+pyinstxtractor.py
+
+# Submission archives
+*.zip
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
